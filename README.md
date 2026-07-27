@@ -42,10 +42,14 @@
 
 ---
 
-### 📊 Dynamic GitHub Stats
+### 📊 Dynamic GitHub Stats & Contribution Summary
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kapilnagar72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Kapil's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilnagar72&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kapilnagar72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1" alt="Kapil's GitHub Stats" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kapilnagar72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
