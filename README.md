@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <b>Full-Stack Developer @ SFA Technologies</b> • Building scalable enterprise web applications with React.js, ASP.NET, C#, and SQL Server.
+  <b>Full-Stack Developer @ SFA Technologies</b> • Building scalable enterprise web applications with React.js, ASP.NET, C#, and SQL Server.[cite: 1]
 </p>
 
 ---
@@ -15,38 +15,42 @@
 
 | 🚀 **Currently Executing** | 🤝 **Connection Requests** |
 | :--- | :--- |
-| Developing enterprise web systems | Looking to collaborate on open source |
-| Building scalable APIs | Interested in backend architecture |
-| Learning advanced Web Technologies | Open to innovative projects |
+| Developing enterprise web systems[cite: 1] | Looking to collaborate on open source |
+| Building scalable APIs[cite: 1] | Interested in backend architecture[cite: 1] |
+| Learning advanced Web Technologies[cite: 1] | Open to innovative projects |
 
 | ☁️ **Active Downloads** | ⚠️ **System Anomalies** |
 | :--- | :--- |
-| Cloud technologies (AWS / Docker) | Debugging at midnight 🌙 |
-| System design & Microservices | Fixing production bugs |
+| Cloud technologies (AWS / Docker)[cite: 1] | Debugging at midnight 🌙 |
+| System design & Microservices[cite: 1] | Fixing production bugs[cite: 1] |
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />[cite: 1]
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />[cite: 1]
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />[cite: 1]
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />[cite: 1]
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Performance
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kapilnagar72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Kapil's GitHub Stats" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kapilnagar72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapilnagar72&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
