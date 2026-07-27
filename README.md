@@ -29,12 +29,12 @@
 ### 🧰 Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -50,7 +50,7 @@
 
 <p align="center">
   <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kapilnagar72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=prs,issues,contribs&cache_seconds=1" alt="Kapil's GitHub Stats" />
-  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kapilnagar72&layout=compact&theme=tokyonight&hide_border=true&hide=java&langs_count=5" alt="Top Languages" />
+  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kapilnagar72&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=5" alt="Top Languages" />
 </p>
 
 ---
